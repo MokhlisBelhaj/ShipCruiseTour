@@ -1,5 +1,5 @@
 <br>
-<footer class="p-3 ">
+<footer class="p-3 bottom ">
     <div class="row d-flex justify-content-center align-items-center text-center">
         <div class="col-md-3 ">
             <h3>Contact Us</h3>
@@ -35,7 +35,7 @@
                 <li><a href="#" style="text-decoration:none;">Terms of Use</a></li>
                 <li><a href="#" style="text-decoration:none;">Privacy Policy</a></li>
                 <li><a href="#" style="text-decoration:none;">Cookie Policy</a></li>
-                <li><a href="admin.php" class="btn btn-primary">admin</a></li>
+                <li><a href="admin" class="btn btn-primary">admin</a></li>
             </ul>
         </div>
 </footer>

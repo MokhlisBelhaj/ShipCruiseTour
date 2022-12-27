@@ -1,8 +1,7 @@
-<?php include_once "../views/includes/header.php" ?>
 <div class="container mt-5">
       <div class="row">
         <div class="col-md-6 mx-auto">
-          <div class="card">
+          <div class="card bg-info ">
             <div class="card-body">
               <h1 class="card-title text-center mb-5">Sign In</h1>
               <form>
@@ -26,4 +25,3 @@
       </div>
     </div>
 
-    <?php include_once "../views/includes/footer.php" ?>

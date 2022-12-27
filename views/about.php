@@ -1,4 +1,4 @@
-<?php include_once "../views/includes/header.php" ?>
+
 <div class="container">
   <div class="row ">
     <div class="col-md-6">
@@ -10,13 +10,13 @@
         </div>
         <div class="carousel-inner ">
           <div class="carousel-item active">
-            <img src="../views/image/about1.jpg" class="d-block w-100" alt="...">
+            <img src="../ShipCruiseTour/views/image/about1.jpg" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="../views/image/about2.jpg" class="d-block w-100" alt="...">
+            <img src="../ShipCruiseTour/views/image/about2.jpg" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="../views/image/about3.jpg" class="d-block w-100" alt="...">
+            <img src="../ShipCruiseTour/views/image/about3.jpg" class="d-block w-100" alt="...">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
@@ -38,5 +38,3 @@
   </div>
 </div>
 
-
-<?php include_once "../views/includes/footer.php" ?>

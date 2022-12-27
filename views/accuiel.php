@@ -1,4 +1,4 @@
-    <?php include_once "../views/includes/header.php" ?>
+
     <div class="description ">
         <div class="row">
             <div style="width: 97%;" class="para col-md-6">
@@ -42,7 +42,7 @@
     <div class="row row-cols-1 row-cols-md-3 g-4 p-3 text-center ">
       <div class="col">
         <div class="card">
-          <img src="../views/image/back1.jpg" class="card-img-top" alt="...">
+          <img src="../ShipCruiseTour/views/image/back1.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Product Name 1</h5>
             <p class="card-text">Product Description 1</p>
@@ -52,7 +52,7 @@
       </div>
       <div class="col">
         <div class="card">
-          <img src="../views/image/back1.jpg" class="card-img-top" alt="...">
+          <img src="../ShipCruiseTour/views/image/back1.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Product Name 1</h5>
             <p class="card-text">Product Description 1</p>
@@ -62,7 +62,7 @@
       </div>
       <div class="col">
         <div class="card">
-          <img src="../views/image/back1.jpg" class="card-img-top" alt="...">
+          <img src="../ShipCruiseTour/views/image/back1.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Product Name 1</h5>
             <p class="card-text">Product Description 1</p>
@@ -73,5 +73,4 @@
     </div>
   </div>
 </div>
-<?php include_once "../views/includes/footer.php" ?>
 

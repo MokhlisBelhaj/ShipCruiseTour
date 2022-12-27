@@ -1,4 +1,4 @@
-<?php include_once "../views/includes/header.php" ?>
+
 <div class="container mt-5">
       <h1 class="text-center p-3">Contact Us</h1>
       <div class="row">
@@ -27,4 +27,3 @@
       </div>
 </div>
 </div>
-<?php include_once "../views/includes/footer.php" ?>
