@@ -1,5 +1,4 @@
 <?php
-include "./models/portModel";
 class contollePort{
     public function getAllPort(){
         $ports= portModel::getall();

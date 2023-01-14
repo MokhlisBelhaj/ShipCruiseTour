@@ -23,7 +23,7 @@ class portModel{
     }
     static public function delete($data){
     try{
-      $stmtdelet = DB::connect()->prepare('DELETE FROM `port` WHERE id=:id');
+      $stmtdelet = DB::connect()->prepare('DELETE FROM `port` WHERE idP=:id');
       $stmtdelet->bindParam(':id', $data['id']);
       $stmtdelet->execute();
       if ($stmtdelet->execute()) {

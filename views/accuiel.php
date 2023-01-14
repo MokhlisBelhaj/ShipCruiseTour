@@ -3,7 +3,7 @@
         <div class="row">
             <div style="width: 97%;" class="para col-md-6">
                 <h1>ShipCruiseTour</h1>
-                <p> est une compagnie de croisière imaginative qui
+                <p> est une compagnie de croisière  qui
                     offre une large gamme de forfaits de croisière de luxe pour
                     les
                     voyageurs du monde entier. Nous proposons des itinéraires
