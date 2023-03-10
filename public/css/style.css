@@ -1,0 +1,104 @@
+
+
+            body{
+                box-sizing: border-box;
+                
+            }
+          
+                .navbar {
+            background: linear-gradient(to bottom, #003366,#003366);
+            color: #fff; 
+            padding: 20px;
+            z-index: 100;
+          }
+          
+          .navbar ul {
+            list-style: none; 
+            display: flex; 
+          }
+          
+          .navbar li {
+            margin-right: 20px; 
+          }
+          
+          .navbar a {
+            color: #fff; 
+            text-decoration: none; 
+          }
+        .pub{
+            overflow: hidden;
+        }
+        .pic{
+            font-weight:bold;
+            font-size: larger;
+            color: white;
+            background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/winter.jpg);
+            /* background-image: url('../image/winter.jpg'); */
+            background-size: cover;
+            width: 100%;
+        }
+    .description{
+        width: 100%;
+        height: 86vh;
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/back1.jpg);
+        background-size: cover;
+        backface-visibility: 30%;
+    }
+   
+        .contact{
+        color: white;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/contactUs.jpg);
+        background-size: cover;
+    }
+    footer{
+        background: linear-gradient(to bottom, #003366, #003366);
+        width: 100%;
+        /* position: relative;
+        bottom: 0px; */
+    }
+
+    .para{
+        font-weight:100;
+        position: absolute;
+        top: 180px;
+        left: 10px;
+        font-size: larger;
+        color: #ffffff;
+    }
+    .banner {
+      background-image: url('./banner.jpg');
+      background-size: cover;
+      height: 300px;
+    }
+    .promotion {
+      background-color: #FECE44;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+    .service{
+        width: 100%;
+        height: fit-content;
+        height: fit-content;
+        background: url(../img/ship-273622.jpg);
+        background-size: cover;
+        width: 100%;
+    }
+    .king {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+        background-repeat: no-repeat;
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://images.pexels.com/photos/635512/pexels-photo-635512.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+        background-size:  100% 100vh;
+    }
+
+    .a1 {
+        background-color:white ;
+        box-shadow: -18px 13px 0px #1b838d;
+        border-radius: 16px;
+        width: 30%;
+    }
